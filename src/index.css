@@ -14,7 +14,8 @@ body {
 .parent{
 min-height: 100vh;
 width: 100%;
-background-color: #111;
+background: #a4a1e6;
+background: linear-gradient(90deg, rgba(164, 161, 230, 1) 0%, rgba(121, 121, 219, 1) 55%, rgba(0, 212, 255, 1) 100%);
 padding: 30px;
 display: flex;
 gap: 60px;
